@@ -8,7 +8,7 @@
 - 💬 Ask me about **react js, javascript, java, html, css and redux**
 
 - 📫 How to reach me **swetaranipatel7@gmail.com**
-- portfolio https://swetarani-patel.github.io/
+- Portfolio Link https://swetarani-patel.github.io/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/swetarani patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swetarani patel" height="30" width="40" /></a>
